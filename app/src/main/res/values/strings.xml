@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">were to go</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username">username</string>
+    <string name="comment">comment</string>
+    <string name="name">name</string>
+    <string name="add_place">Add place</string>
+    <string name="confirm">Confirm</string>
+    <string name="default_notification_channel_id" translatable="false">123456</string>
+    <string name="cancel">Cancel</string>
+    <string name="setting">Setting</string>
+    <string name="gps_setting">GPS setting</string>
+    <string name="gps_hint">turn on location</string>
+    <string name="home">Home</string>
+    <string name="weather">Weather</string>
+    <string name="profile">profile</string>
+    <string name="add_comment">Add comment</string>
+    <string name="location">Location</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="coffee_shops">Coffee shops</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="malls">Malls</string>
+    <string name="logout">Logout</string>
+    <string name="save">Save</string>
+    <string name="no_data">No data</string>
+    <string name="saved">Saved</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="address">Address</string>
+    <string name="title_activity_maps" translatable="false">activity_maps</string>
+    <string name="hello_blank_fragment" translatable="false">hello_blank_fragment</string>
+
+
+    <string name="register_owner">Register Owner</string>
+    <string name="welcome">WELCOME</string>
+    <array name="filter">
+        <item>Restaurants</item>
+        <item>Coffee shop</item>
+        <item>malls</item>
+    </array>
+</resources>

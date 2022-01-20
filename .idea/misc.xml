@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable-v24/bt_uiborder.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable-v24/bt_uisquare.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable-v24/circle.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable-v24/circlet.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable-v24/ic_add.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_baseline_ac_unit_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_baseline_coffee_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_baseline_local_mall_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_baseline_restaurant_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_add_comment.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_add_place.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_intro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_location.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_my_places_owner.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_owner_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_place_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_places_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_register.xml" value="0.264" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_register_owner.xml" value="0.264" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragment_weather.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/fragmentttt_profile.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/item_empty_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/item_owner__place_layout.xml" value="0.264" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/item_place.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/item_rating.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/layout/language_bottom_sheet.xml" value="0.2" />
+        <entry key="..\:/Users/User/Downloads/WhereTogo211/WhereTogo21/app/src/main/res/menu/menu_bottom.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

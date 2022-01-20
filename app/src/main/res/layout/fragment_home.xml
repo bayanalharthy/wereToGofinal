@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".views.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/coffee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:backgroundTint="@color/white"
+            android:padding="@dimen/_8sdp"
+            android:text="@string/coffee_shops"
+            android:textColor="#673AB7"
+            android:textSize="@dimen/_13sdp"
+            android:textStyle="italic"
+            app:icon="@drawable/ic_baseline_coffee_24"
+            app:iconSize="@dimen/_32sdp"
+            app:iconTint="#673AB7" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/restaurants"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:backgroundTint="@color/white"
+            android:padding="@dimen/_8sdp"
+            android:text="@string/restaurants"
+            android:textColor="#673AB7"
+            android:textSize="@dimen/_13sdp"
+            android:textStyle="italic"
+            app:icon="@drawable/ic_baseline_restaurant_24"
+            app:iconSize="@dimen/_32sdp"
+            app:iconTint="#673AB7" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/malls"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:backgroundTint="@color/white"
+            android:padding="@dimen/_8sdp"
+            android:text="@string/malls"
+            android:textColor="#673AB7"
+            android:textSize="@dimen/_13sdp"
+            android:textStyle="italic"
+            app:icon="@drawable/ic_baseline_local_mall_24"
+            app:iconSize="@dimen/_32sdp"
+            app:iconTint="#673AB7" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="61dp"
+        android:backgroundTint="@color/final_color"
+        android:text="@string/logout"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+</RelativeLayout>

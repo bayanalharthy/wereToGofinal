@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.permissions-dispatcher:ktx:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9095b112eb3168cb1c2f021eeeb36dff/transformed/jetified-ktx-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9095b112eb3168cb1c2f021eeeb36dff/transformed/jetified-ktx-1.0.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9095b112eb3168cb1c2f021eeeb36dff/transformed/jetified-ktx-1.0.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.permissions-dispatcher/ktx/1.0.5/14d146617c9c2b41416c0cfe5b91e33889cb5dde/ktx-1.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.permissions-dispatcher/ktx/1.0.5/49fb293f0f56cf07f5563f8c995c5ae034d28d97/ktx-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

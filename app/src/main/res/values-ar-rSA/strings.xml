@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">were to go</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">تسجيل جديد</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="comment">تعليق</string>
+    <string name="name">الاسم</string>
+    <string name="add_place">إضافة مكان</string>
+    <string name="confirm">تاكيد</string>
+    <string name="cancel">إلغاء</string>
+    <string name="setting">الإعدادات</string>
+    <string name="gps_setting">إعدادات الموقع</string>
+    <string name="gps_hint">قم بتفعيل الموقع</string>
+    <string name="home">الرئيسية</string>
+    <string name="weather">الطقس</string>
+    <string name="profile">الصفحة الشخصية</string>
+    <string name="add_comment">إضافة تعليق</string>
+    <string name="location">الموقع</string>
+    <string name="title">الاسم</string>
+    <string name="description">الوصف</string>
+    <string name="coffee_shops">مقاهي</string>
+    <string name="restaurants">مطاعم</string>
+    <string name="malls">مولات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="save">حفظ</string>
+    <string name="no_data">لا يوجد بيانات</string>
+    <string name="saved">تم الحفظ</string>
+    <string name="delete_account">حذف الحساب</string>
+    <string name="address">العنوان</string>
+    <string name="register_owner">تسجيل الشركة</string>
+    <string name="welcome">مرحبا</string>
+
+
+</resources>

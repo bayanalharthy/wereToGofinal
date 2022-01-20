@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002430466126",
+    "project_id": "were-to-go-5933a",
+    "storage_bucket": "were-to-go-5933a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002430466126:android:9241b3053c5c971f681b1f",
+        "android_client_info": {
+          "package_name": "com.tuwaiq.weretogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002430466126-df3hubnrcu20depo83ghmmb3vvdaknla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUiCWjiP8RliY4L9jOwnPTLataGKXkTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002430466126-df3hubnrcu20depo83ghmmb3vvdaknla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

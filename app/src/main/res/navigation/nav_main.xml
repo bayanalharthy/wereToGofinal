@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/introFragment">
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.tuwaiq.weretogo.views.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/nav"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_loginFragment_to_addPlaceFragment"
+            app:destination="@id/addPlaceFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/introFragment"
+        android:name="com.tuwaiq.weretogo.views.IntroFragment"
+        android:label="IntroFragment" >
+        <action
+            android:id="@+id/action_introFragment_to_registerFragment"
+            app:destination="@id/registerFragment" />
+        <action
+            android:id="@+id/action_introFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_introFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/nav"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_introFragment_to_addPlaceFragment"
+            app:destination="@id/addPlaceFragment" />
+        <action
+            android:id="@+id/action_introFragment_to_registerOwnerFragment"
+            app:destination="@id/registerOwnerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addPlaceFragment"
+        android:name="com.tuwaiq.weretogo.views.AddPlaceFragment"
+        android:label="AddPlaceFragment" >
+        <action
+            android:id="@+id/action_addPlaceFragment_to_mapFragment"
+            app:destination="@id/mapFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addCommentFragment"
+        android:name="com.tuwaiq.weretogo.views.AddCommentFragment"
+        android:label="AddCommentFragment" >
+        <argument
+            android:name="place"
+            app:argType="com.tuwaiq.weretogo.network.model.Place" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.tuwaiq.weretogo.views.HomeFragment"
+        android:label="HomeFragment" >
+        <action
+            android:id="@+id/action_homeFragment_to_placesListFragment"
+            app:destination="@id/placesListFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_introFragment"
+            app:destination="@id/introFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/placeDetailsFragment"
+        android:name="com.tuwaiq.weretogo.views.PlaceDetailsFragment"
+        android:label="PlaceDetailsFragment" >
+        <action
+            android:id="@+id/action_placeDetailsFragment_to_addCommentFragment"
+            app:destination="@id/addCommentFragment" />
+        <action
+            android:id="@+id/action_placeDetailsFragment_to_mapFragment"
+            app:destination="@id/mapFragment" />
+        <argument
+            android:name="place"
+            app:argType="com.tuwaiq.weretogo.network.model.Place" />
+    </fragment>
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.tuwaiq.weretogo.views.MapFragment"
+        android:label="MapFragment" >
+        <argument
+            android:name="lat"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="lng"
+            app:argType="string"
+            app:nullable="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/placesListFragment"
+        android:name="com.tuwaiq.weretogo.views.PlacesListFragment"
+        android:label="PlacesListFragment" >
+        <action
+            android:id="@+id/action_placesListFragment_to_placeDetailsFragment"
+            app:destination="@id/placeDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.tuwaiq.weretogo.views.ProfileFragment"
+        android:label="ProfileFragment" >
+        <action
+            android:id="@+id/action_profileFragment_to_introFragment"
+            app:destination="@id/introFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/weatherFragment"
+        android:name="com.tuwaiq.weretogo.views.WeatherFragment"
+        android:label="WeatherFragment" />
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.tuwaiq.weretogo.views.RegisterFragment"
+        android:label="fragment_register"
+        tools:layout="@layout/fragment_register" >
+        <action
+            android:id="@+id/action_registerFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/registerOwnerFragment"
+        android:name="com.tuwaiq.weretogo.views.RegisterOwnerFragment"
+        android:label="RegisterOwnerFragment" >
+        <action
+            android:id="@+id/action_registerOwnerFragment_to_addPlaceFragment"
+            app:destination="@id/addPlaceFragment" />
+    </fragment>
+</navigation>
